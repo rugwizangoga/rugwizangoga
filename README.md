@@ -12,7 +12,7 @@
 <a  href="https://twitter.com/IRugwizangoga"  target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195566671-f3328fbe-1b77-4500-b6fb-b9d92fa9c011.gif" height="60"  width="60"  /></a>
 &#8287;&#8287;&#8287;
-<a href="mailto:jaamanu@gmail.com" target="_blank">
+<a href="mailto:pacific.r.iradukunda@gmail.com" target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195565804-e5ee1df3-f584-4b6a-af87-581db17d3d77.gif"  height="60"  width="60"  /></a> 
 &#8287;&#8287;&#8287;
 <a href="https://api.whatsapp.com/send?phone=250784192238" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
