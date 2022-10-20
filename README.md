@@ -7,7 +7,7 @@
 <!-- Social icons section -->
 <p align="center">
  <a  href="https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga"  target="_blank">
-<img  align="center"  src="https://user-images.githubusercontent.com/98466955/195613046-9ecccd6e-b96e-45f9-84b2-c7ea1086479f.gif" height="70"  width="70"  /></a>
+<img  align="center"  src="./comptia A+.png" height="70"  width="70"  /></a>
 &#8287;&#8287;&#8287;
 <a  href="https://twitter.com/IRugwizangoga"  target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195566671-f3328fbe-1b77-4500-b6fb-b9d92fa9c011.gif" height="60"  width="60"  /></a>
