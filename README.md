@@ -7,7 +7,7 @@
 <!-- Social icons section -->
 <p align="center">
  <a  href="https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga"  target="_blank">
-<img  align="center"  src="./comptia A+.png" height="70"  width="70"  /></a>
+<img  align="center"  src="https://user-images.githubusercontent.com/98466955/195613046-9ecccd6e-b96e-45f9-84b2-c7ea1086479f.gif" height="70"  width="70"  /></a>
 &#8287;&#8287;&#8287;
 <a  href="https://twitter.com/IRugwizangoga"  target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195566671-f3328fbe-1b77-4500-b6fb-b9d92fa9c011.gif" height="60"  width="60"  /></a>
@@ -16,6 +16,7 @@
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195565804-e5ee1df3-f584-4b6a-af87-581db17d3d77.gif"  height="60"  width="60"  /></a> 
 &#8287;&#8287;&#8287;
 <a href="https://api.whatsapp.com/send?phone=250784192238" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+&#8287;&#8287;&#8287;
 
 - 🎓 I'm a Computer Engineer, I hold a Computer Engineering Degree from University of Rwanda college of science and technology.</br><br>
 -  👩‍💻 I’m currently taking a **Full-Stack Software Development** training at 
@@ -24,8 +25,8 @@
 
 ### Certificates & Licenses 🥇
  <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/earner/earned/badge/2b5752f8-fbb1-4116-a4fc-1528de7c0d68" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572972-55d4ac48-a8b3-4ce6-ac6c-b5fa18b7eff4.png" width="80"></a> 
-    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/badges/c98aaf03-d3d4-4f09-9be5-0e33fd264a76" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572345-2ed06552-1533-41c5-b646-e32254595890.png" width="80"></a> 
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/earner/earned/badge/2b5752f8-fbb1-4116-a4fc-1528de7c0d68" target="blank"><img src="./microsoft.png" width="80"></a> 
+    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/badges/c98aaf03-d3d4-4f09-9be5-0e33fd264a76" target="blank"><img src="./comptia A+.png" width="80"></a> 
    &nbsp; &nbsp; &nbsp; &nbsp; <a href="#" target="blank"><img src="./pacific.r.iradukunda@gmail.com.png" width="80"></a>
 
  </p>   
@@ -61,10 +62,6 @@
 
 ## Version Control & CI/CD
 ![git](https://user-images.githubusercontent.com/98466955/195476809-1dbe8838-a259-4cd5-a520-08a2d73a5b3d.png)
-
-
-<h3> Visitors count </h3>
-<img src="https://profile-counter.glitch.me/rugwizangoga/count.svg" /><br/>
 
 
 ## Feedback
