@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=rugwizangoga&color=blue)
 <h1 align="center">Hi there, I'm Pacific!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"><br><br>
 <img  align="center"  src="./fullstack.jpg" height="400" width="700"  />
 <br>
@@ -14,6 +15,7 @@
 <a href="mailto:jaamanu@gmail.com" target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195565804-e5ee1df3-f584-4b6a-af87-581db17d3d77.gif"  height="60"  width="60"  /></a> 
 &#8287;&#8287;&#8287;
+<a href="https://api.whatsapp.com/send?phone=250784192238" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 - 🎓 I'm a Computer Engineer, I hold a Computer Engineering Degree from University of Rwanda college of science and technology.</br><br>
 -  👩‍💻 I’m currently taking a **Full-Stack Software Development** training at 
