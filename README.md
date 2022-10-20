@@ -2,20 +2,20 @@
 
 <!-- Social icons section -->
 <p align="center">
- <a  href="https://www.linkedin.com/in/jamesasibeymanu/"  target="_blank">
+ <a  href="https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga"  target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195613046-9ecccd6e-b96e-45f9-84b2-c7ea1086479f.gif" height="70"  width="70"  /></a>
 &#8287;&#8287;&#8287;
-<a  href="https://twitter.com/JamesAsibeyManu"  target="_blank">
+<a  href="https://twitter.com/IRugwizangoga"  target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195566671-f3328fbe-1b77-4500-b6fb-b9d92fa9c011.gif" height="60"  width="60"  /></a>
 &#8287;&#8287;&#8287;
 <a href="mailto:jaamanu@gmail.com" target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195565804-e5ee1df3-f584-4b6a-af87-581db17d3d77.gif"  height="60"  width="60"  /></a> 
 &#8287;&#8287;&#8287;
 
-- 🎓 I'm a software developer, I hold a Chemical Engineering Degree from Kumasi Technical University Ghana.</br><br>
--  👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** at 
-[Microverse](https://www.microverse.org/), a remote and diverse environment<br></br>
-- 💻 All **my projects** are available [here.](https://github.com/jaamanu?tab=repositories).<br><br>
+- 🎓 I'm a Computer Engineer, I hold a Computer Engineering Degree from University of Rwanda college of science and technology.</br><br>
+-  👩‍💻 I’m currently taking a **Full-Stack Software Development** training at 
+[Microverse](https://www.microverse.org/), a remote and diverse software development school<br></br>
+- 💻 All **my projects** are available [here.](https://github.com/rugwizangoga?tab=repositories).<br><br>
 
 ### Certificates & Licenses 🥇
  <p align="left">
@@ -60,9 +60,9 @@
 
 
 <h3> Visitors count </h3>
-<img src="https://profile-counter.glitch.me/jaamanu/count.svg" /><br/>
+<img src="https://profile-counter.glitch.me/rugwizangoga/count.svg" /><br/>
 
 
 ## Feedback
 
-- 📫 If you have any feedback, please reach out to me at jaamanu@gmail.com
+- 📫 If you have any feedback, please reach out to me at pacific.r.iradukunda@gmail.com
