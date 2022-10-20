@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pacific!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"><br>
-<img  align="center"  src="../fullstack.jpg" height="70"  width="70"  />
+<img  align="center"  src="./fullstack.jpg" height="70"  width="70"  />
 </h1>
 
 <!-- Social icons section -->
