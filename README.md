@@ -15,6 +15,7 @@
 <a href="mailto:pacific.r.iradukunda@gmail.com" target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195565804-e5ee1df3-f584-4b6a-af87-581db17d3d77.gif"  height="60"  width="60"  /></a> 
 &#8287;&#8287;&#8287;
+<br><br>
 <a href="https://api.whatsapp.com/send?phone=250784192238" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 &#8287;&#8287;&#8287;
 
@@ -26,7 +27,7 @@
 ### Certificates & Licenses 🥇
  <p align="left">
    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/earner/earned/badge/2b5752f8-fbb1-4116-a4fc-1528de7c0d68" target="blank"><img src="./microsoft.png" width="80"></a> 
-    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/badges/c98aaf03-d3d4-4f09-9be5-0e33fd264a76" target="blank"><img src="./comptia A+.png" width="80"></a> 
+    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/badges/c98aaf03-d3d4-4f09-9be5-0e33fd264a76" target="blank"><img src="./comptia.png" width="80"></a> 
    &nbsp; &nbsp; &nbsp; &nbsp; <a href="#" target="blank"><img src="./pacific.r.iradukunda@gmail.com.png" width="80"></a>
 
  </p>   
