@@ -19,8 +19,8 @@
 
 ### Certificates & Licenses 🥇
  <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/92024a07-e111-4029-af67-f44598081c8a#gs.fin7fz" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572972-55d4ac48-a8b3-4ce6-ac6c-b5fa18b7eff4.png" width="80"></a> 
-    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3#gs.ficvyo" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572345-2ed06552-1533-41c5-b646-e32254595890.png" width="80"></a> 
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/earner/earned/badge/2b5752f8-fbb1-4116-a4fc-1528de7c0d68" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572972-55d4ac48-a8b3-4ce6-ac6c-b5fa18b7eff4.png" width="80"></a> 
+    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/badges/c98aaf03-d3d4-4f09-9be5-0e33fd264a76" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572345-2ed06552-1533-41c5-b646-e32254595890.png" width="80"></a> 
    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.udemy.com/certificate/UC-4789aaae-6c97-47eb-94e1-dbe6627d52e1/" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195573897-0fcc27af-8399-4a54-9776-f22b5d7c8396.jpeg" width="80"></a>
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://coursera.org/share/90cbfea5fde05e09ee38365b10d6334b" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195579521-3d98a2b5-e214-4ee9-ad07-d96468f3d817.jpeg" width="80"></a>
 
@@ -31,10 +31,10 @@
  
 | Activities  |   Languages  |
 | ----------- | ------------ |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaamanu&show_icons=true&theme=tokyonight" alt="jaamanu" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaamanu&show_icons=true&theme=tokyonight&layout=compact" alt="jaamanu" width="410" />|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rugwizangoga&show_icons=true&theme=tokyonight" alt="rugwizangoga" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rugwizangoga&show_icons=true&theme=tokyonight&layout=compact" alt="rugwizangoga" width="410" />|
 </p>
 <p align="center">&nbsp;
-<img  width:"500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaamanu&" alt="jaamanu" />
+<img  width:"500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rugwizangoga&" alt="rugwizangoga" />
   </p>
 <img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>Meeting people really delights me so if you want to say hello, I'll be happy to meet you! 😊 </em>
 
