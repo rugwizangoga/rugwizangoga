@@ -28,7 +28,7 @@
  <p align="left">
    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/earner/earned/badge/2b5752f8-fbb1-4116-a4fc-1528de7c0d68" target="blank"><img src="./microsoft.png" width="80"></a> 
     &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/badges/c98aaf03-d3d4-4f09-9be5-0e33fd264a76" target="blank"><img src="./comptia.png" width="80"></a> 
-   &nbsp; &nbsp; &nbsp; &nbsp; <a href="#" target="blank"><img src="./pacific.r.iradukunda@gmail.com.png" width="80"></a>
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://drive.google.com/file/d/0B291UgaNZniwTGJ2NG5NM2J5dWRVdTNHejlld19QbzRUSnh3/view?usp=sharing&resourcekey=0-0pWBYsTaFG5cw3qE8ElDtA" target="blank"><img src="./pacific.r.iradukunda@gmail.com.png" width="80"></a>
 
  </p>   
   
