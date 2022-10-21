@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=rugwizangoga&color=blue)
 <h1 align="center">Hi there, I'm Pacific!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">
-<img  align="center"  src="./full stack.jpg" height="400" width="800"  />
+<img  align="center"  src="./full.jpeg" height="400" width="800"  />
 <br>
 </h1>
 
