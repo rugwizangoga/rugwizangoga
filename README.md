@@ -1,9 +1,6 @@
-![Profile views](https://komarev.com/ghpvc/?username=rugwizangoga&color=cyan)
-height="55px" width="55px">
+![Profile views](https://komarev.com/ghpvc/?username=rugwizangoga&color=green)
 <img  align="center"  src="./full.jpeg" height="400" width="800"  />
 <br>
-</h1>
-
 <!-- Social icons section -->
 <p align="center">
  <a  href="https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga"  target="_blank">
